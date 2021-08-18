@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "likes": 20
     },
     {
       "id": 2,
@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "df",
+      "image": "df",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Bugs Bunny",
+      "image": "https://cdn.vox-cdn.com/thumbor/RsL5FNihoaV9odgkWQWIATp1xr0=/0x16:1103x751/1400x1400/filters:focal(0x16:1103x751):format(png)/cdn.vox-cdn.com/uploads/chorus_image/image/46840054/Screenshot_2015-07-27_15.11.13.0.0.png",
+      "likes": 9,
+      "id": 10
     }
   ]
 }
